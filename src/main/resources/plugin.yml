@@ -1,0 +1,4 @@
+name: HopperItemFrameFilter
+version: '${project.version}'
+main: me.trilliumhq.filter.hopperitemframefilter.HopperItemFrameFilter
+api-version: 1.13
